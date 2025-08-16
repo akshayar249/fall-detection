@@ -28,7 +28,6 @@ When a fall is detected, the system can:
 
   * Base Models → **KNN**, **Logistic Regression**
   * Meta Model → **Random Forest**
-* ⚡ **Real-Time Detection**: Integrated with Android app (Kotlin + Retrofit)
 * 🚑 **Emergency Response**: Notifications & buzzer alerts
 
 ---
@@ -52,4 +51,4 @@ When a fall is detected, the system can:
 * 🧠 Explore **deep learning (CNN/LSTM)** for improved classification
 * 🖥️ Add a **caregiver dashboard** for real-time monitoring
 
-Workflow: Sensor → App → Backend → Model → Alert
+
